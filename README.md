@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Suraj Prakash Rai
 
-<!--
-**surajprai2111-ui/surajprai2111-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming data into meaningful insights using SQL, Tableau, and data visualization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+• SQL  
+• Tableau  
+• Data Visualization  
+• Data Analysis  
+• Business Insights  
+• Big Query
+• Python
+---
+
+## Tableau Dashboard Projects
+
+### Retail Sales Performance Dashboard
+
+Interactive dashboard analyzing retail sales trends, product performance, and regional profitability.
+
+🔗 https://public.tableau.com/app/profile/suraj.prakash.rai/viz/SuperstoreinteractiveDashboard_17718752144030/SuperstoreInteractiveDashboard
+
+---
+
+### Australia Wine Sales Insights Dashboard
+
+Dashboard exploring wine sales performance, revenue trends, and regional demand.
+
+🔗 https://public.tableau.com/app/profile/suraj.prakash.rai/viz/AustraliawineInsightsDashboard/AustraliaWinesInsightsDashboard
+
+---
+
+### HR Workforce Analytics Dashboard
+
+HR analytics dashboard analyzing workforce demographics and hiring trends.
+
+🔗 https://public.tableau.com/app/profile/suraj.prakash.rai/viz/Hromegadashboard/OmegaHRInsightDashboard
+
+---
+
+## GitHub Portfolio
+
+📂 Tableau Dashboards Repository
+
+https://github.com/surajprai2111-ui/tableau-data-analytics-projects
